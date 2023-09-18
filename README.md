@@ -23,13 +23,13 @@ The Weather Tracker App is designed to provide real-time weather updates for var
 
 ## Usage
 
-Once the server is running, navigate to https://charleshuurman.github.io/challenge5/ in your browser.
+Once the server is running, navigate to https://charleshuurman.github.io/weathertracker/ in your browser.
 
 - Enter the city name in the search bar.
 - Press 'Search' to display current weather conditions and a 5-day forecast.
 - Your search history is saved and can be accessed for quicker results in the future.
 
-![Weather App Screenshot](assets/screenshot.png)
+![Weather App Screenshot](Assets/screenshot.png)
 
 ## Credits
 
