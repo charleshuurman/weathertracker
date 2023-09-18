@@ -34,7 +34,7 @@ Special thanks to the [OpenWeather API](https://openweathermap.org/api) for prov
 
 ## License
 
-MIT License. For more detail
+MIT License. 
 
 ---
 
