@@ -17,9 +17,6 @@ The Weather Tracker App is designed to provide real-time weather updates for var
 ## Installation
 
 1. Clone the repository https://github.com/charleshuurman/weathertracker.git to your local machine.
-2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install all dependencies.
-4. Use `npm start` to start the development server.
 
 ## Usage
 
